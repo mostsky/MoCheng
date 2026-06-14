@@ -1,1 +1,5 @@
-https://cdn.jsdelivr.net/gh/mostsky/MoCheng@main/莫晨多功能工具箱_1.2.4.apk?v=1.2.4
+{
+  "version": "1.2.4",
+  "log": "新版本 v1.2.4\n1.优化CDN下载速度\n2.修复版本检测404问题\n3.完善底层适配",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mostsky/MoCheng@main/莫晨多功能工具箱_1.2.4.apk?v=1.2.4"
+}
